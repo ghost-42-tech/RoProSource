@@ -1,0 +1,49 @@
+.light-theme .sandbox-icon .new-menu-icon{
+	background-position:0px -305px;
+	background-size:56px 532px;
+	background-image:url(https://ropro.io/images/custom_icons5_lightmode.svg);
+}
+.light-theme .sandbox-icon:hover .new-menu-icon{
+	background-position:-28px -305px;
+	background-size:56px 532px;
+	background-image:url(https://ropro.io/images/custom_icons5_lightmode.svg);
+}
+
+.light-theme .offers-icon .new-menu-icon{
+	background-position:0px -248px;
+	background-size:56px 532px;
+	background-image:url(https://ropro.io/images/custom_icons5_lightmode.svg);
+}
+.light-theme .offers-icon:hover .new-menu-icon{
+	background-position:-29px -248px;
+	background-size:56px 532px;
+	background-image:url(https://ropro.io/images/custom_icons5_lightmode.svg);
+}
+.dark-theme .sandbox-icon .new-menu-icon{
+	background-position:2px -299px;
+	background-image:url(https://ropro.io/images/custom_icons5.svg);
+}
+.dark-theme .sandbox-icon:hover .new-menu-icon{
+	background-position:-26px -299px;
+	background-image:url(https://ropro.io/images/custom_icons5.svg);
+}
+
+.dark-theme .offers-icon .new-menu-icon{
+	background-position:2px -242px;
+	background-image:url(https://ropro.io/images/custom_icons5.svg);
+}
+
+.dark-theme .offers-icon:hover .new-menu-icon{
+	background-position:-26px -242px;
+	background-image:url(https://ropro.io/images/custom_icons5.svg);
+}
+
+.ropro-icon {
+	margin-top:6px;
+	margin-left:0px;
+	width:30px;
+}
+
+.ropro-icon:hover {
+	cursor: pointer;
+}

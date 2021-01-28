@@ -1,0 +1,19 @@
+#myGlower {
+    background-color: #ccc;
+    border: 1px solid transparent;    
+    -webkit-transition: border 0.1s linear, box-shadow 0.1s linear;
+       -moz-transition: border 0.1s linear, box-shadow 0.1s linear;
+            transition: border 0.1s linear, box-shadow 0.1s linear;
+}
+
+#myGlower.active {
+	box-shadow: inset 0 0 1px 20px #0A88DE;
+}
+
+.max-player-dropdown {
+	display:none;
+}
+
+.max-player-dropdown.active {
+	display:block;
+}
